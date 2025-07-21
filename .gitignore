@@ -1,0 +1,8 @@
+# Ignorar el archivo de configuración con secretos
+config.json
+
+# Ignorar la carpeta de resultados generados
+output/
+
+# Ignorar archivos de cache de Python
+__pycache__/
