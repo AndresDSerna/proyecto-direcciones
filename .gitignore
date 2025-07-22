@@ -1,0 +1,5 @@
+# Ignorar .zip y archivos comprimidos
+lambda_function.zip
+*.zip
+# Ignorar carpetas de caché
+__pycache__/
