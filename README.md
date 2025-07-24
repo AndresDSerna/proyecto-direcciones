@@ -21,8 +21,8 @@ Este proyecto es un conjunto de scripts de Python diseñados para leer direccion
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/](https://github.com/)<tu-usuario>/<tu-repositorio>.git
-    cd <tu-repositorio>
+    git clone [https://github.com/](https://github.com/)<AndresDSerna>/<proyecto-direcciones>.git
+    cd <proyecto-direcciones>
     ```
 
 2.  **Crear el archivo de configuración:**
